@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+.is-done {
+  text-decoration: line-through;
+}
+
+ul:hover {
+  cursor: pointer;
+}
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
