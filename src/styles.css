@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.is-done {
+  text-decoration: line-through;
+}
+
+ul:hover {
+  cursor: pointer;
+}
